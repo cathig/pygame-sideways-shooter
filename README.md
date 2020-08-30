@@ -13,7 +13,7 @@ The rocket is constrained to the left side of the screen, remaining within the w
 
 The bullets start from the tip of the rocket ship and proceed across the screen. Once off screen, the program destroys each bullet.
 
-![sample Sideways Shooter screen](/images/sampleScreen.jpg)
+![sample Sideways Shooter screen](/images/sampleScreen.JPG)
 
 ## How to Use
 1. Run alien_invation.py.
