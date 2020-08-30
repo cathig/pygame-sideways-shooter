@@ -16,7 +16,7 @@ The bullets start from the tip of the rocket ship and proceed across the screen.
 ![sample Sideways Shooter screen](/images/sampleScreen.JPG)
 
 ## How to Use
-1. Run alien_invation.py.
+1. Run alien_invasion.py.
 
    A game window with a rocket center left opens.
 
