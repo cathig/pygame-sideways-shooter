@@ -20,10 +20,10 @@ The bullets start from the tip of the rocket ship and proceed across the screen.
 
    A game window with a rocket center left opens.
 
-2. Move the rocket: press your keyboard's up and down arrow keys.
+2. __Move the rocket:__ press your keyboard's up and down arrow keys.
 
-3. Shoot bullets: press the spacebar.
+3. __Shoot bullets:__ press the spacebar.
 
-   Note that only 3 bullets can exist at once. Once the bullets leave the other side of the screen, you can shoot more bullets.
+   __Note:__ Only 3 bullets can exist at once. Once the bullets leave the other side of the screen, you can shoot more bullets.
 
 4. Close the game window with the Close (X) button or press 'q'.
